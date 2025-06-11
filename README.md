@@ -1,1 +1,1 @@
-# stok-takip-otomasyonu
+Projemizin Amacı Sağlık Sektöründe Elde Bulunan İlaçları Hızlı güvenli ve Pratik Şekilde Erişmesine olanak sağlamaktır. Android Studio Java+Kotlin programlama dili kullanılmıştır.7 Adet Sayfa kullanılmış ve özenle tasarlanmıştır. Projemiz yazılırken asgari düzeyde bilgisayar bilgisine sahip bir kişinin kullanacağı şekilde hazırlanmıştır. Butonlarda Kullanıcıyı yönlendirecek Görseller eklenerek daha önceden bu programı hiç kullanmamış birinin zorlanmadan kullanması amaçlanmıştır
